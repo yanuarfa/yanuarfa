@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Yanuar Faturahman</h1>
-<h3 align="center">A kid who still struggles at everything.</h3>
+<h3 align="center">Curious about everything</h3>
   
 
-- 🔭 I’m currently working on **fixing bugs**
+- 🔭 Currently working on **fixing bugs**
 
-- 🌱 I’m currently learning **React and also Tailwind CSS**
+- 🌱 Currently learning **React and also Tailwind CSS**
 
-- 🤝 I’m looking for help with **everyone**
+- 🤝 Looking for **help**
 
-- 👨‍💻 All of my projects are available at [https://yanuarfa.github.io](https://yanuarfa.github.io)
+- 👨‍💻 My projects [https://yanuarfa.github.io](https://yanuarfa.github.io)
 
-- 💬 Ask me about **anything you want**
+- 💬 Ask anything about **myself**
 
-- 📫 How to reach me **yanuarfatur41@gmail.com**
+- 📫 Reach me through **yanuarfatur41@gmail.com**
 
-- ⚡ Fun fact **I'm a solo player**
+- ⚡ Fun fact **Imma solo player**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
