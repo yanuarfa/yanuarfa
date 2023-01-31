@@ -8,7 +8,7 @@
 
 - 🤝 Looking for **help**
 
-- 👨‍💻 My projects [https://yanuarfa.github.io](https://yanuarfa.github.io)
+- 👨‍💻 My projects [https://yanuarfa.my.id](https://yanuarfa.my.id)
 
 - 💬 Ask anything about **myself**
 
